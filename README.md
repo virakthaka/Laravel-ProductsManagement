@@ -18,4 +18,6 @@ php artisan storage:link
 
 npm install (optional)
 
+# Run project
+
 php artisan serve
