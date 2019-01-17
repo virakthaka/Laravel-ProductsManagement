@@ -2,8 +2,11 @@
 
 VueJs single page with Laravel API
 
+# Clone project
 
 git clone project
+
+# Setup
 
 composer install
 
