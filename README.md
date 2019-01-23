@@ -8,16 +8,20 @@ git clone project
 
 # Setup
 
-composer install
+follow these command to setup the project
 
-php artisan key:generate
+    composer install
 
-php artisan migrate
+    php artisan key:generate
 
-php artisan storage:link
+    php artisan migrate
 
-npm install (optional)
+    php artisan storage:link
+
+    npm install (optional)
 
 # Run project
 
-php artisan serve
+start project follow command below
+
+    php artisan serve
